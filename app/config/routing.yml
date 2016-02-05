@@ -1,0 +1,10 @@
+home:
+    resource: "@HomeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+login:
+    resource: "@LoginBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
